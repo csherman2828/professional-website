@@ -33,7 +33,6 @@ header>p.contact{
 }
 
 section.bubbleSection{
-
 	margin-top: 25px;
 	margin-bottom: 25px;
   background-color: #555555;
@@ -55,10 +54,12 @@ h2 {
 	font-family: 'Russo One',sans-serif;
 	font-size: 2em;
 	color: lawngreen;
+  margin-bottom: 5px;
 }
 
 h3{
 	font-family: 'Russo One',sans-serif;
+  margin-bottom: 3px;
 }
 
 ul.navBar>li{
@@ -76,6 +77,10 @@ ul.bulletedList>li{
   list-style: disc;
   padding-left: 4px;
   margin-left: 30px;
+}
+
+section>ul{
+  margin-bottom: 5px;
 }
 
 section#technologies{
